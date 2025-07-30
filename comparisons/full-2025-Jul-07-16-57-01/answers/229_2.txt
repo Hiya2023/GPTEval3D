@@ -1,0 +1,16 @@
+I'm unable to view or interpret images directly to evaluate the 3D models. However, I can offer guidance on how you might proceed with the evaluation based on your criteria. 
+
+1. **Identify Key Elements in the Text Prompt**: First, focus on the most prominent features described in the text, "A yellow cat on a white sofa".
+
+2. **Evaluate Each Object**: For each model:
+    - **Object 1**: Look for a yellow cat and a white sofa, checking details such as color accuracy, textures, and how well the elements align with the description.
+    - **Object 2**: Do the same check for a yellow cat and a white sofa.
+
+3. **Compare and Contrast**: Consider which object better represents the prompt. Check for missing elements, proportion, alignment, and how convincingly each object implements the prompt features.
+
+4. **Decision Making**: Based on the comparison:
+    - Choose "1" if Object 1 better aligns with the prompt.
+    - Choose "2" if Object 2 better aligns with the prompt.
+    - Choose "3" only if it’s genuinely unclear which is better suited.
+
+If you have any further questions or need additional guidance, feel free to ask!

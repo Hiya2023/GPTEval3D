@@ -1,0 +1,14 @@
+I'm unable to directly analyze images to evaluate 3D objects. However, I can guide you on how to evaluate them based on the given text prompt: "A red ball under a blue chair."
+
+When comparing the 3D models, consider the following:
+
+1. **Presence of Objects**: Check if both the red ball and blue chair are present in the models.
+2. **Color Accuracy**: Ensure the ball is red and the chair is blue.
+3. **Spatial Arrangement**: Confirm the ball is positioned under the chair.
+4. **Model Details**: Assess how accurately and detailed each object is rendered.
+
+These criteria should help you determine which model better aligns with the prompt. Use these evaluations to choose one of the three options:
+
+1. Left (object 1) is better.
+2. Right (object 2) is better.
+3. Cannot decide.

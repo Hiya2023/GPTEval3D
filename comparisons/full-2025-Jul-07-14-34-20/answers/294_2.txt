@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one accurately represents a spherical shape, aligning closely with the description of a "spherical doorknob."
+   - The right one includes a spherical shape but also features an additional attachment, making it slightly more complex than the text prompt suggests.
+
+The left one is better.
+
+Final answer:
+1

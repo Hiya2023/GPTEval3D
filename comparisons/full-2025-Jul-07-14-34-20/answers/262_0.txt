@@ -1,0 +1,18 @@
+I'm unable to determine the details of the objects in the images. However, I can guide you on how to evaluate them based on the text prompt.
+
+To assess the models based on the prompt "A cubic lamp with a curved base," consider the following:
+
+1. **Cubic Shape**: Check each model for a cubic form. A cube should have equal dimensions along all axes.
+   
+2. **Curved Base**: Examine the base of each model to see if it has a noticeable curve. The curvature should be evident when compared to a straight edge.
+
+Analysis:
+
+1. **Text prompt & Asset Alignment**: 
+   - **Left (Object 1)**: Describe if it reflects a cubic shape with a curved base.
+   - **Right (Object 2)**: Describe if it reflects a cubic shape with a curved base.
+
+Based on your analysis, decide which model better matches the described attributes. If one model clearly aligns more with the cubic shape and curved base attributes, it is the better choice. If both or neither align well, use the "Cannot decide" option sparingly.
+
+Final decision:
+Choose 1, 2, or 3 based on your observations.

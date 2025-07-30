@@ -142,7 +142,7 @@ class T23DTournament():
     
     def create_comparisons_for_tournament(
         self, out_folder,
-        budget=500, repeats=2, method_names=None,
+        budget=3000, repeats=2, method_names=None,
     ):
         # First make folder
         if osp.isdir(out_folder):
@@ -254,7 +254,7 @@ class T23DTournament():
      
     def create_comparisons_for_new_method(
         self, new_method, out_folder,
-        budget=500, repeats=3, method_names=None
+        budget=3000, repeats=3, method_names=None
     ):
         # First make folder
         if osp.isdir(out_folder):

@@ -35,7 +35,7 @@ def parse_args():
         '-c', '--comparisons', default=None, 
         help="Folder storing the information of a list of comparisons.")
     parser.add_argument(
-        '-b', '--budget', default=10, type=int,
+        '-b', '--budget', default=1000, type=int,
         help="Number of requests budgeted for the evaluation task.")
     parser.add_argument(
         '-o', '--output', default=None, 

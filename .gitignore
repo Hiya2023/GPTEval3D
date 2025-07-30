@@ -1,0 +1,11 @@
+
+# Virtual environments (for windows and popos)
+gpt_4v*
+
+
+#python artifacts
+__pycache__/
+*.py[cod]
+
+#ignore large files
+*.png

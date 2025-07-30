@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment:
+   - **Left (Object 1):** The object does not clearly exhibit a rectangular shape or cylindrical armrests. The form is more irregular and does not align well with the text description of a sofa.
+   - **Right (Object 2):** The object clearly shows a rectangular sofa with distinct cylindrical armrests. The attributes align well with the text prompt.
+
+The right one is better.
+
+Final answer:
+2

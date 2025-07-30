@@ -48,7 +48,8 @@ def call_gpt_4v(client, user_prompt, user_img_path,
     }]
     try:
         response = client.chat.completions.create(
-            model="gpt-4-vision-preview",
+            #model="gpt-4-vision-preview",
+            model="gpt-4o",
             messages=conversation_history,
             max_tokens=max_tokens,
             n=n_choices

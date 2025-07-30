@@ -1,0 +1,6492 @@
+{
+    "0": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/0.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "1": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/1.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "2": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/2.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "3": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/3.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "4": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/4.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "5": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/5.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "6": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/6.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "7": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/7.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "8": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/8.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "9": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/9.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "10": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/10.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "11": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/11.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "12": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/12.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "13": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/13.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "14": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/14.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "15": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/15.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "16": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/16.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "17": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/17.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "18": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/18.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "19": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/19.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "20": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/20.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "21": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/21.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "22": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/22.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "23": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/23.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "24": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/24.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "25": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/25.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "26": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/26.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "27": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/27.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "28": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/28.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "29": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/29.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "30": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/30.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "31": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/31.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "32": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/32.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "33": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/33.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "34": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/34.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "35": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/35.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "36": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/36.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "37": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/37.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "38": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/38.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "39": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/39.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "40": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/40.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "41": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/41.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "42": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/42.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "43": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/43.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "44": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/44.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "45": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/45.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "46": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/46.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "47": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/47.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "48": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/48.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "49": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/49.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "50": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/50.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "51": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/51.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "52": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/52.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "53": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/53.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "54": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/54.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "55": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/55.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "56": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/56.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "57": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/57.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "58": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/58.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "59": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/59.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "60": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/60.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "61": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/61.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "62": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/62.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "63": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/63.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "64": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/64.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "65": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/65.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "66": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/66.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "67": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/67.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "68": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/68.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "69": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/69.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "70": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/70.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "71": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/71.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "72": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/72.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "73": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/73.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "74": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/74.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "75": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/75.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "76": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/76.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "77": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/77.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "78": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/78.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "79": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/79.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "80": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/80.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "81": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/81.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "82": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/82.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "83": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/83.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "84": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/84.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "85": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/85.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "86": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/86.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "87": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/87.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "88": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/88.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "89": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/89.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "90": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/90.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "91": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/91.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "92": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/92.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "93": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/93.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "94": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/94.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "95": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/95.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "96": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/96.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "97": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/97.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "98": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/98.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "99": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/99.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "100": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/100.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "101": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/101.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "102": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/102.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "103": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/103.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "104": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/104.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "105": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/105.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "106": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/106.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "107": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/107.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "108": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/108.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "109": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/109.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "110": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/110.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "111": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/111.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "112": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/112.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "113": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/113.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "114": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/114.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "115": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/115.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "116": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/116.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "117": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/117.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "118": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/118.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "119": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/119.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "120": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/120.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "121": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/121.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "122": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/122.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "123": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/123.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "124": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/124.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "125": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/125.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "126": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/126.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "127": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/127.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "128": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/128.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "129": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/129.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "130": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/130.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "131": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/131.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "132": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/132.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "133": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/133.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "134": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/134.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "135": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/135.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "136": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/136.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "137": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/137.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "138": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/138.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "139": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/139.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "140": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/140.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "141": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/141.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "142": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/142.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "143": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/143.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "144": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/144.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "145": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/145.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "146": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/146.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "147": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/147.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "148": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/148.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "149": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/149.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "150": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/150.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "151": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/151.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "152": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/152.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "153": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/153.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "154": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/154.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "155": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/155.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "156": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/156.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "157": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/157.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "158": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/158.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "159": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/159.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "160": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/160.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "161": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/161.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "162": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/162.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "163": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/163.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "164": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/164.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "165": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/165.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "166": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/166.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "167": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/167.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "168": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/168.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "169": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/169.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "170": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/170.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "171": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/171.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "172": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/172.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "173": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/173.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "174": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/174.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "175": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/175.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "176": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/176.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "177": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/177.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "178": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/178.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "179": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/179.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "180": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/180.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "181": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/181.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "182": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/182.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "183": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/183.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "184": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/184.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "185": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/185.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "186": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/186.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "187": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/187.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "188": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/188.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "189": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/189.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "190": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/190.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "191": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/191.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "192": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/192.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "193": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/193.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "194": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/194.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "195": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/195.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "196": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/196.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "197": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/197.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "198": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/198.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "199": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/199.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "200": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/200.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "201": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/201.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "202": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/202.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "203": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/203.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "204": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/204.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "205": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/205.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "206": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/206.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "207": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/207.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "208": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/208.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "209": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/209.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "210": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/210.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "211": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/211.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "212": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/212.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "213": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/213.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "214": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/214.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "215": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/215.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "216": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/216.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "217": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/217.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "218": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/218.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "219": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/219.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "220": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/220.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "221": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/221.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "222": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/222.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "223": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/223.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "224": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/224.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "225": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/225.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "226": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/226.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "227": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/227.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "228": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/228.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "229": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/229.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "230": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/230.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "231": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/231.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "232": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/232.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "233": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/233.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "234": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/234.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "235": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/235.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "236": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/236.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "237": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/237.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "238": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/238.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "239": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/239.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "240": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/240.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "241": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/241.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "242": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/242.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "243": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/243.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "244": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/244.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "245": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/245.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "246": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/246.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "247": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/247.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "248": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/248.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "249": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/249.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "250": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/250.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "251": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/251.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "252": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/252.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "253": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/253.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "254": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/254.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "255": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/255.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "256": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/256.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "257": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/257.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "258": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/258.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "259": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/259.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "260": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/260.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "261": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/261.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "262": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/262.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "263": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/263.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "264": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/264.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "265": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/265.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "266": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/266.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "267": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/267.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "268": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/268.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "269": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/269.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "270": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/270.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "271": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/271.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "272": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/272.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "273": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/273.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "274": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/274.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "275": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/275.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "276": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/276.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "277": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/277.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "278": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/278.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "279": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/279.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "280": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/280.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "281": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/281.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "282": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/282.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "283": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/283.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "284": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/284.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "285": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/285.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "286": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/286.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "287": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/287.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "288": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/288.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "289": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/289.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "290": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/290.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "291": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/291.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "292": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/292.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "293": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/293.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "294": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/294.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "295": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/295.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "296": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/296.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "297": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/297.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "298": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/298.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "299": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/299.png",
+        "augment_type": null,
+        "dimensions": [
+            0
+        ],
+        "gpt_prompt": "gpt_prompts/n4_d0.txt"
+    },
+    "300": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/300.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "301": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/301.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "302": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/302.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "303": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/303.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "304": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/304.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "305": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/305.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "306": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/306.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "307": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/307.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "308": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/308.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "309": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/309.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "310": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/310.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "311": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/311.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "312": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/312.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "313": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/313.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "314": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/314.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "315": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/315.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "316": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/316.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "317": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/317.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "318": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/318.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "319": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/319.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "320": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/320.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "321": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/321.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "322": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/322.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "323": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/323.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "324": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/324.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "325": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/325.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "326": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/326.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "327": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/327.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "328": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/328.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "329": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/329.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "330": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/330.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "331": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/331.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "332": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/332.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "333": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/333.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "334": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/334.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "335": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/335.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "336": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/336.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "337": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/337.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "338": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/338.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "339": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/339.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "340": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/340.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "341": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/341.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "342": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/342.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "343": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/343.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "344": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/344.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "345": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/345.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "346": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/346.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "347": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/347.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "348": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/348.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "349": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/349.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "350": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/350.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "351": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A round stool beside a rectangular sofa",
+        "prompt_id": 21,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/351.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "352": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/352.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "353": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/353.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "354": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/354.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "355": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/355.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "356": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/356.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "357": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A spherical doorknob",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/357.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "358": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/358.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "359": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/359.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "360": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/360.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "361": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/361.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "362": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/362.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "363": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A cubic lamp with a curved base",
+        "prompt_id": 15,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/363.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "364": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/364.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "365": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A triangular traffic cone beside a circular ball",
+        "prompt_id": 28,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/365.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "366": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A spherical lamp on a square nightstand",
+        "prompt_id": 27,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/366.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "367": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/367.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "368": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/368.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "369": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/369.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "370": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/370.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "371": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/371.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "372": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/372.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "373": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/373.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "374": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/374.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "375": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/375.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "376": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/376.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "377": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/377.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "378": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/378.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "379": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/379.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "380": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/380.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "381": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/381.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "382": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/382.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "383": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/383.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "384": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/384.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "385": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/385.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "386": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/386.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "387": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/387.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "388": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/388.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "389": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/389.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "390": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/390.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "391": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A circular stool with a square base",
+        "prompt_id": 14,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/391.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "392": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/392.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "393": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/393.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "394": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/394.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "395": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A rectangular laptop beside a circular mousepad",
+        "prompt_id": 20,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/395.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "396": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/396.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "397": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A spherical chair with a flat seat",
+        "prompt_id": 17,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/397.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "398": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/398.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "399": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A hexagonal table under a round mirror",
+        "prompt_id": 24,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/399.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "400": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/400.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "401": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/401.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "402": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/402.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "403": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/403.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "404": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/404.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "405": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/405.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "406": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/406.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "407": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/407.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "408": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/408.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "409": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/409.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "410": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A trapezoidal bookshelf",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/410.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "411": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A cylindrical vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/411.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "412": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A hexagonal mirror with a triangular frame",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/412.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "413": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/413.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "414": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "An elliptical coffee table with circular legs",
+        "prompt_id": 13,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/414.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "415": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/415.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "416": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A spherical globe on a cubic pedestal",
+        "prompt_id": 22,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/416.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "417": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/417.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "418": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A round cushion",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/418.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "419": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A cubic ottoman",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/419.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "420": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/420.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "421": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A rectangular sofa beside an oval mirror",
+        "prompt_id": 26,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/421.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "422": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/422.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "423": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A rectangular sofa with cylindrical armrests",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/423.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "424": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A cylindrical bin beside a rectangular desk",
+        "prompt_id": 23,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/424.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "425": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A square coffee table",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/425.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "426": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A hexagonal mirror",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/426.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "427": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A rectangular bookshelf",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/427.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "428": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A circular rug",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/428.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "429": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "An oval dining table",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/429.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "430": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A conical lampshade on a cylindrical base",
+        "prompt_id": 25,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/430.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "431": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A triangular road sign",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/431.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "432": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A cylindrical vase with a flared top",
+        "prompt_id": 16,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/432.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "433": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A triangular shelf with round edges",
+        "prompt_id": 18,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/433.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    },
+    "434": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A circular clock above a cuboid bookshelf",
+        "prompt_id": 19,
+        "image_path": "comparisons/full-2025-Jul-07-14-34-20/434.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            3
+        ],
+        "gpt_prompt": "gpt_prompts/n4_rgb_d013.txt"
+    }
+}

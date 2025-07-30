@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one accurately reflects the text prompt of "A yellow sofa" with its clear yellow color and recognizable sofa shape.
+   - The right one is less accurate in terms of color and form, appearing more abstract and deviating from a typical sofa shape.
+
+The left one is better.
+
+Final answer:
+1

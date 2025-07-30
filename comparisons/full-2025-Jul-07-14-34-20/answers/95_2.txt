@@ -1,0 +1,27 @@
+I'm unable to display or analyze the images directly as you're requesting, since this is just a piece of text with instructions for you to follow. However, I can help guide you on how to analyze the images based on your instructions:
+
+1. **Text Prompt & Asset Alignment:**
+   - **Left Model Description:** If the left image includes a rectangular sofa and an oval mirror, that’s good. Check positioning and size.
+   - **Right Model Description:** Look for the same elements.
+   - Determine which model better reflects the description of "A rectangular sofa beside an oval mirror."
+
+2. **3D Plausibility:**
+   - Observe each model for realistic proportions and logical physical structure.
+   - Identify any irregularities, abnormal shapes, or duplicated/missing parts.
+
+3. **Geometry-Texture Alignment:**
+   - Compare RGB and normal maps for each object.
+   - Check if the texture aligns with the geometric features.
+
+4. **Low-Level Texture Details:**
+   - Focus on the clarity and sharpness of textures.
+   - Identify which one captures more intricate details without blurring.
+
+5. **Low-Level Geometry Details:**
+   - Examine the normal maps for detailed geometry representation.
+   - Look for well-organized structure and smoothness.
+
+6. **Overall Evaluation:**
+   - Weigh all criteria to decide which model is the best overall representation.
+
+Follow this framework to make an informed decision. Each criterion should focus on a specific aspect of the objects being compared, helping you determine the better model based on your observations.

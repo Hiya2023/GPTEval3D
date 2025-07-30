@@ -1,0 +1,266 @@
+{
+    "0": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1004.9435593971626,
+            "latentnerf": 1088.0057227028792,
+            "magic3d": 1024.50391849532,
+            "mvdream": 1026.6726237861017,
+            "prolific": 941.5974550281462
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "latentnerf",
+                1088.0057227028792
+            ],
+            [
+                "mvdream",
+                1026.6726237861017
+            ],
+            [
+                "magic3d",
+                1024.50391849532
+            ],
+            [
+                "gdream",
+                1004.9435593971626
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "prolific",
+                941.5974550281462
+            ]
+        ]
+    },
+    "1": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1105.671766417333,
+            "latentnerf": 1092.9788876707923,
+            "magic3d": 982.8236370732884,
+            "mvdream": 1068.0493907181665,
+            "prolific": 904.726053649845
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "gdream",
+                1105.671766417333
+            ],
+            [
+                "latentnerf",
+                1092.9788876707923
+            ],
+            [
+                "mvdream",
+                1068.0493907181665
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "magic3d",
+                982.8236370732884
+            ],
+            [
+                "prolific",
+                904.726053649845
+            ]
+        ]
+    },
+    "2": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1096.6618847825796,
+            "latentnerf": 1104.1272828507729,
+            "magic3d": 1007.9761403762996,
+            "mvdream": 1098.1310166028495,
+            "prolific": 932.9615351000144
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "latentnerf",
+                1104.1272828507729
+            ],
+            [
+                "mvdream",
+                1098.1310166028495
+            ],
+            [
+                "gdream",
+                1096.6618847825796
+            ],
+            [
+                "magic3d",
+                1007.9761403762996
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "prolific",
+                932.9615351000144
+            ]
+        ]
+    },
+    "3": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1134.8011615565017,
+            "latentnerf": 1091.740552657433,
+            "magic3d": 1017.0226728657369,
+            "mvdream": 1136.1222232136213,
+            "prolific": 966.1769903731958
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "mvdream",
+                1136.1222232136213
+            ],
+            [
+                "gdream",
+                1134.8011615565017
+            ],
+            [
+                "latentnerf",
+                1091.740552657433
+            ],
+            [
+                "magic3d",
+                1017.0226728657369
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "prolific",
+                966.1769903731958
+            ]
+        ]
+    },
+    "4": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1114.3458703527308,
+            "latentnerf": 1076.9356402907317,
+            "magic3d": 1015.5478642261412,
+            "mvdream": 1089.7636341835982,
+            "prolific": 925.5526955889691
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "gdream",
+                1114.3458703527308
+            ],
+            [
+                "mvdream",
+                1089.7636341835982
+            ],
+            [
+                "latentnerf",
+                1076.9356402907317
+            ],
+            [
+                "magic3d",
+                1015.5478642261412
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "prolific",
+                925.5526955889691
+            ]
+        ]
+    },
+    "5": {
+        "scores": {
+            "dreamfusion": 1000.0,
+            "gdream": 1115.4553988530529,
+            "latentnerf": 1114.9310347544422,
+            "magic3d": 1021.603882813934,
+            "mvdream": 1105.92145082546,
+            "prolific": 943.8660302895088
+        },
+        "methods": [
+            "dreamfusion",
+            "gdream",
+            "latentnerf",
+            "magic3d",
+            "mvdream",
+            "prolific"
+        ],
+        "ranking": [
+            [
+                "gdream",
+                1115.4553988530529
+            ],
+            [
+                "latentnerf",
+                1114.9310347544422
+            ],
+            [
+                "mvdream",
+                1105.92145082546
+            ],
+            [
+                "magic3d",
+                1021.603882813934
+            ],
+            [
+                "dreamfusion",
+                1000.0
+            ],
+            [
+                "prolific",
+                943.8660302895088
+            ]
+        ]
+    }
+}

@@ -1,0 +1,3317 @@
+{
+    "0": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/0.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "1": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/1.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "2": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/2.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "3": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/3.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "4": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/4.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "5": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/5.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "6": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/6.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "7": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/7.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "8": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/8.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "9": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/9.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "10": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/10.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "11": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/11.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "12": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/12.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "13": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/13.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "14": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/14.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "15": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/15.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "16": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/16.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "17": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/17.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "18": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/18.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "19": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/19.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "20": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/20.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "21": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/21.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "22": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/22.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "23": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/23.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "24": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/24.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "25": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/25.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "26": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/26.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "27": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/27.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "28": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/28.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "29": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/29.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "30": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/30.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "31": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/31.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "32": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/32.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "33": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/33.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "34": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/34.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "35": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/35.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "36": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/36.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "37": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/37.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "38": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/38.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "39": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/39.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "40": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/40.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "41": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/41.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "42": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/42.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "43": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/43.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "44": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/44.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "45": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/45.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "46": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/46.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "47": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/47.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "48": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/48.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "49": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/49.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "50": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/50.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "51": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/51.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "52": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/52.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "53": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/53.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "54": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/54.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "55": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/55.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "56": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/56.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "57": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/57.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "58": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/58.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "59": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/59.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "60": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/60.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "61": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/61.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "62": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/62.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "63": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/63.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "64": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/64.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "65": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/65.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "66": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/66.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "67": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/67.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "68": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/68.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "69": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/69.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "70": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/70.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "71": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/71.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "72": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/72.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "73": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/73.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "74": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/74.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "75": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/75.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "76": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/76.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "77": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/77.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "78": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/78.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "79": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/79.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "80": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/80.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "81": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/81.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "82": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/82.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "83": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/83.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "84": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/84.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "85": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/85.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "86": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/86.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "87": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/87.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "88": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/88.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "89": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/89.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "90": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/90.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "91": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/91.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "92": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/92.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "93": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/93.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "94": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/94.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "95": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/95.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "96": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/96.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "97": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/97.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "98": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/98.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "99": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/99.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "100": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/100.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "101": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/101.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "102": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/102.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "103": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/103.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "104": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/104.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "105": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/105.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "106": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/106.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "107": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/107.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "108": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/108.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "109": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/109.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "110": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/110.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "111": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/111.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "112": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/112.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "113": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/113.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "114": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/114.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "115": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/115.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "116": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/116.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "117": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/117.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "118": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/118.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "119": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/119.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "120": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/120.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "121": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/121.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "122": {
+        "m1": "prolific",
+        "m2": "gdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/122.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "123": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/123.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "124": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/124.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "125": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/125.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "126": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/126.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "127": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/127.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "128": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/128.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "129": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/129.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "130": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/130.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "131": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/131.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "132": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/132.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "133": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/133.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "134": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/134.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "135": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/135.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "136": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/136.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "137": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/137.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "138": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/138.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "139": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/139.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "140": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/140.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "141": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/141.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "142": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/142.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "143": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/143.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "144": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/144.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "145": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/145.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "146": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/146.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "147": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/147.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "148": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/148.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "149": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/149.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "150": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/150.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "151": {
+        "m1": "prolific",
+        "m2": "mvdream",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/151.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "152": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/152.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "153": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/153.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "154": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/154.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "155": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/155.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "156": {
+        "m1": "dreamfusion",
+        "m2": "magic3d",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/156.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "157": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/157.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "158": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/158.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "159": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/159.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "160": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/160.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "161": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A classic African mask with modern abstract art influences",
+        "prompt_id": 8,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/161.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "162": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/162.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "163": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/163.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "164": {
+        "m1": "latentnerf",
+        "m2": "mvdream",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/164.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "165": {
+        "m1": "dreamfusion",
+        "m2": "mvdream",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/165.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "166": {
+        "m1": "gdream",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+        "prompt_id": 12,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/166.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "167": {
+        "m1": "gdream",
+        "m2": "dreamfusion",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/167.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "168": {
+        "m1": "mvdream",
+        "m2": "gdream",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/168.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "169": {
+        "m1": "dreamfusion",
+        "m2": "latentnerf",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/169.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "170": {
+        "m1": "dreamfusion",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/170.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "171": {
+        "m1": "mvdream",
+        "m2": "magic3d",
+        "prompt": "A contemporary Chinese teapot on a traditional Persian table",
+        "prompt_id": 10,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/171.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "172": {
+        "m1": "latentnerf",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/172.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "173": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "A vibrant Indian dress beside a sleek modern teapot",
+        "prompt_id": 9,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/173.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "174": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/174.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "175": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/175.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "176": {
+        "m1": "latentnerf",
+        "m2": "gdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/176.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "177": {
+        "m1": "prolific",
+        "m2": "magic3d",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/177.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "178": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A vintage French teapot with intricate designs",
+        "prompt_id": 5,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/178.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "179": {
+        "m1": "latentnerf",
+        "m2": "magic3d",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/179.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "180": {
+        "m1": "dreamfusion",
+        "m2": "gdream",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/180.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "181": {
+        "m1": "latentnerf",
+        "m2": "dreamfusion",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/181.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "182": {
+        "m1": "mvdream",
+        "m2": "latentnerf",
+        "prompt": "A modern Scandinavian chair",
+        "prompt_id": 2,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/182.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "183": {
+        "m1": "gdream",
+        "m2": "mvdream",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/183.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "184": {
+        "m1": "prolific",
+        "m2": "latentnerf",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/184.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "185": {
+        "m1": "mvdream",
+        "m2": "prolific",
+        "prompt": "A Chinese chair with vintage and modern influences",
+        "prompt_id": 7,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/185.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "186": {
+        "m1": "mvdream",
+        "m2": "dreamfusion",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/186.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "187": {
+        "m1": "gdream",
+        "m2": "prolific",
+        "prompt": "A rustic Italian teapot",
+        "prompt_id": 0,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/187.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "188": {
+        "m1": "magic3d",
+        "m2": "mvdream",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/188.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "189": {
+        "m1": "magic3d",
+        "m2": "gdream",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/189.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "190": {
+        "m1": "magic3d",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French gown next to an ornate Japanese vase",
+        "prompt_id": 11,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/190.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "191": {
+        "m1": "magic3d",
+        "m2": "prolific",
+        "prompt": "A colorful African mask",
+        "prompt_id": 4,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/191.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "192": {
+        "m1": "magic3d",
+        "m2": "latentnerf",
+        "prompt": "A minimalist Japanese vase with floral engravings",
+        "prompt_id": 6,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/192.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "193": {
+        "m1": "gdream",
+        "m2": "latentnerf",
+        "prompt": "A vintage Chinese vase",
+        "prompt_id": 3,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/193.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    },
+    "194": {
+        "m1": "prolific",
+        "m2": "dreamfusion",
+        "prompt": "An elegant French evening gown",
+        "prompt_id": 1,
+        "image_path": "comparisons/full-2025-Jun-20-15-13-24/194.png",
+        "augment_type": null,
+        "dimensions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "gpt_prompt": "gpt_prompts/n4_full.txt"
+    }
+}
