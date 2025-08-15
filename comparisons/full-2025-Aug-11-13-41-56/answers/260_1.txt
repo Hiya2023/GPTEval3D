@@ -1,0 +1,7 @@
+Analysis:
+1. Text prompt & Asset Alignment: The left model shows a distinct triangular frame, but the mirror itself appears to be more diamond-shaped rather than hexagonal. The right model has a more consistent hexagonal shape, though the frame does not clearly appear triangular.
+
+The right one is better.
+
+Final answer:
+2

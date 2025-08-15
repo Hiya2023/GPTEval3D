@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left one (object 1): The sofa is yellow, matching the prompt. The design is straightforward and clearly represents a sofa.
-   - The right one (object 2): The sofa has a complex pattern and does not appear yellow. The design is more detailed but deviates from the simplicity suggested by the prompt.
-
-The left one is better.
-
-Final answer:
-1

@@ -1,1 +1,0 @@
-I'm unable to compare the two 3D objects because the input images are of vases, not chairs. Please provide the correct images of the 3D models generated from the text prompt describing a "spherical chair with a flat seat."

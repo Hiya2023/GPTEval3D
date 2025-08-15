@@ -1,0 +1,7 @@
+Analysis:
+1. Text prompt & Asset Alignment: The left object appears to have a more recognizable sofa shape with visible cylindrical armrests, fitting the description well. The right object seems to lack clear definition in both the rectangular base and the armrests, making it less distinct as a sofa with cylindrical armrests. 
+
+The left one is better.
+
+Final answer:
+1

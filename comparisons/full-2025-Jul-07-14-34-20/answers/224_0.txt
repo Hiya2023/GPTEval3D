@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left one lacks distinct features of a sofa and cylindrical armrests, with a more abstract form.
-   - The right one clearly has a rectangular sofa shape with cylindrical armrests and detailed upholstery, closely aligning with the prompt.
-
-The right one is better.
-
-Final answer:
-2

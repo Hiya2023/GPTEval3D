@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one captures the prompt with a clear white vase and golden patterns that are distinctly visible and well-integrated.
+   - The right one has a significant amount of pink and floral patterns, which deviate from the "white vase with golden patterns" description.
+
+The left one is better.
+
+Final answer:
+1

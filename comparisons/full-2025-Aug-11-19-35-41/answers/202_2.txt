@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one is colorful but lacks distinct features and details typical of African masks; it appears more abstract.
+   - The right one has clear facial features with vibrant colors and patterns often associated with African masks.
+   
+The right one is better.
+
+Final answer:
+2

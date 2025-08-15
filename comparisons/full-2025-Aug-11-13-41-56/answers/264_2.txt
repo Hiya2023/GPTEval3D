@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one depicts a rectangular sofa but lacks any representation of a mirror.
+   - The right one includes both an oval mirror and a sofa, matching the prompt more accurately.
+   
+The right one is better.
+
+Final answer:
+2

@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left model features a spherical lamp on a square nightstand, aligning closely with the text prompt. The shapes of both the lamp and nightstand are consistent with the description.
-   - The right model appears to depict a sofa-like object rather than a nightstand, with no visible spherical lamp, which does not match the text prompt.
-
-The left one is better.
-
-Final answer:
-1

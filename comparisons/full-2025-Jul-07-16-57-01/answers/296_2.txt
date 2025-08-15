@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left one (Object 1) is a monochromatic yellow object, likely representing a sofa, which aligns well with the "yellow sofa" prompt.
-   - The right one (Object 2) features a patterned sofa with multiple colors, which diverges from the specific yellow color described in the prompt.
-
-The left one is better in capturing the text prompt.
-
-Final answer:
-1

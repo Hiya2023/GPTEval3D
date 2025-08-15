@@ -1,0 +1,35 @@
+I'm unable to view images directly, but I can guide you on how to evaluate the two 3D objects based on the text prompt you provided. You should analyze the images yourself using the instructions below:
+
+### Analysis:
+
+1. **Text Prompt & 3D Alignment**:
+   - **Left (Object 1)**: Describe what you see. Does the object have a cubic shape with a curved base? How well does it match the prompt "A cubic lamp with a curved base"?
+   - **Right (Object 2)**: Describe what you see. Does it fit the description of a cubic lamp with a curved base?
+   - Decide which object aligns better with the text prompt.
+
+2. **3D Plausibility**:
+   - **Left (Object 1)**: Evaluate if it looks like a solid, plausible 3D object. Are there any strange body problems, duplicated parts, or meaningless structures?
+   - **Right (Object 2)**: Evaluate the same aspects. Does it look normal and plausible as a 3D model?
+   - Decide which object appears more plausible as a 3D model.
+
+3. **Low-Level Texture**:
+   - **Left (Object 1)**: Look at the textures closely. Are they sharp, realistic, and detailed?
+   - **Right (Object 2)**: Evaluate the textures for sharpness, realism, and detail.
+   - Decide which object has better and more realistic textures.
+
+### Help with Evaluation:
+
+- For **Text Prompt & 3D Alignment**, focus on shape and structure.
+- For **3D Plausibility**, think about realism and logical consistency.
+- For **Low-Level Texture**, concentrate on surface detail and quality.
+
+### Making Decisions:
+Choose one of the three options for each criterion:
+1. Left (Object 1) is better;
+2. Right (Object 2) is better;
+3. Cannot decide (use sparingly).
+
+### Example of Final Answer Format:
+1 2 2 / 3 3 3 / 3 2 2
+
+Make your evaluations based on what you observe with these guidelines.

@@ -51,6 +51,15 @@ class T23DMethod():
             glob.glob(osp.join(self.path, str(pid), str(seed), "rgb_*.png")))
         all_sfns = sorted(
             glob.glob(osp.join(self.path, str(pid), str(seed), "normal_*.png")))
+        
+        if len(all_rgbs) != len(all_sfns):
+            print("\n[DEBUG] Mismatch detected!")
+            print(f"Method: {self.name}")
+            print(f"Prompt ID: {pid}, Seed: {seed}")
+            print(f"RGB count: {len(all_rgbs)} -> {all_rgbs}")
+            print(f"SFN count: {len(all_sfns)} -> {all_sfns}")
+            print("-" * 50)
+
         assert len(all_rgbs) == len(all_sfns)
 
         # select views

@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment: 
+   - The left one appears as a traditional sofa with a blend of colors, primarily blue with hints of yellow. It doesn't fully capture the "yellow sofa" prompt due to the dominant blue.
+   - The right one is a corner sofa and predominantly yellow, matching the text prompt more accurately.
+
+The right one is better.
+
+Final answer:
+2

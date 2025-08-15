@@ -1,0 +1,9 @@
+Analysis:
+1. Text prompt & Asset Alignment:
+   - The left model displays two pink vases on what appears to be a brown surface, aligning well with the text prompt "A pink vase on a brown shelf."
+   - The right model features a single pink vase without the presence of a brown shelf, which partially aligns with the prompt but lacks the complete context.
+
+The left one is better.
+
+Final answer:
+1

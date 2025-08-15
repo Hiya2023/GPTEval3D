@@ -1,7 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: The left one is predominantly yellow and closely matches the description of "A yellow sofa." The right one features a patterned design with minimal yellow, not aligning with the text prompt description.
-
-The left one is better.
-
-Final answer:
-1

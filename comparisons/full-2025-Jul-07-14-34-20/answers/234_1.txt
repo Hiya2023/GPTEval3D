@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left one (Object 1) clearly demonstrates a rectangular sofa with cylindrical armrests. The shapes are well-defined and match the description.
-   - The right one (Object 2) lacks clarity in structure and does not distinctly show cylindrical armrests. The form is less recognizable as a sofa.
-
-The left one is better.
-
-Final answer:
-1

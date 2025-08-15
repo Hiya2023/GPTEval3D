@@ -1,0 +1,6 @@
+Analysis:
+1. Text prompt & Asset Alignment: The left object does not match the text prompt, as it is not black and does not resemble a lamp. The right object accurately represents a "black lamp," showing clear alignment with the text description.
+The right one is better.
+
+Final answer:
+2

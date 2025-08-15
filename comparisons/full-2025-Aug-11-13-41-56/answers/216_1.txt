@@ -1,0 +1,5 @@
+Analysis:
+1. Text prompt & Asset Alignment: The left one does not closely resemble a sofa, showing more of a decorative bench or chair style without an oval mirror. The right one accurately depicts a rectangular sofa, though no oval mirror is visible beside it. Overall, the right one is aligned better with the prompt.
+
+Final answer:
+2 (Right is better)

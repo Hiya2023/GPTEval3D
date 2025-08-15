@@ -1,7 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: The left one does not resemble a lamp, failing to capture the primary concept, while the right one clearly shows a lamp style consistent with typical designs. The right one accurately aligns with the text prompt “A black lamp.”
-
-The right one is better.
-
-Final answer:
-2

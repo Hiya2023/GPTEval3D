@@ -1,9 +1,0 @@
-Analysis:
-1. Text prompt & Asset Alignment: 
-   - The left one does not accurately depict a white vase with golden patterns; it appears more yellow and lacks distinct patterns.
-   - The right one better matches the prompt by showcasing a lighter color with hints of gold patterns, but the overall shape seems more bowl-like than a vase.
-
-The right one is better.
-
-Final answer:
-2
